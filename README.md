@@ -1,6 +1,6 @@
 
 # 👩‍💻 Hey, I'm Hannah! 
-I'm a Software Engineer and Educator in Los Angeles fascinated by the intersection between technology and public policy. I deeply believe in the power of code to transform and improve systems, and I love to nerd out about how digital tools can improve access to education, policy, and public services. 🌍
+I'm a Software Engineer and Educator in Los Angeles motivated by the potential for systemic innovation within technology. . I deeply believe in the power of code to transform and improve systems, and I love to nerd out about how digital tools can improve access to education, policy, and public services. 🌍
 
 ## Latest Projects
 
