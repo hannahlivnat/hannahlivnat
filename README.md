@@ -14,5 +14,5 @@ I'm currently working with Hack for Los Angeles on the 311 Data team, recently d
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/hannah-livnat/)
-[Portfolio](https://hannahlivnat-softwaredeveloper-portfolio.netlify.app/)
+[Portfolio](https://hannahlivnat.netlify.app/)
 [Medium](https://medium.com/@hannahlivnat_2545)
