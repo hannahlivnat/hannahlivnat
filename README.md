@@ -1,6 +1,6 @@
 
 # 👩‍💻 Hey, I'm Hannah! 
-I'm a Software Engineer in Los Angeles motivated by the potential for systemic innovation within technology. I believe code can transform and improve systems, and I love to nerd out about how digital tools can improve access to education, policy, and public services. 🌍
+I'm a Software Engineer in Los Angeles motivated by the potential for systemic innovation within technology. I believe code can transform and improve systems, and I love to nerd out about how digital tools can improve access to services. 🌍
 
 ## Latest Projects
 
